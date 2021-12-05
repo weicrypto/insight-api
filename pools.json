@@ -282,10 +282,10 @@
     ]
   },
   {
-    "poolName":"DASH.TOP",
-    "url":"http://dash.btc.top/",
+    "poolName":"WEI.TOP",
+    "url":"http://dash.btc.top/", // todo update the address
     "searchStrings":[
-      "/DASH.TOP/"
+      "/WEI.TOP/"
     ]
   },
   {
@@ -311,7 +311,7 @@
   },
   {
     "poolName":"Stratum Pool",
-    "url":"https://github.com/dashpay/dash-stratum",
+    "url":"https://github.com/dashpay/dash-stratum", //todo update the address
     "searchStrings":[
       "/stratum/"
     ]
