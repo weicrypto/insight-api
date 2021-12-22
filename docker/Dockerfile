@@ -26,8 +26,7 @@ RUN bin/weicore-node install @weicrypto/insight-api@${VERSION}
 
 FROM node:8-alpine
 
-#todo update the email
-LABEL maintainer="Wei Developers <dev@dash.org>"
+LABEL maintainer="Wei Developers <support@weicrypto.com>"
 LABEL description="Dockerised Insight API"
 
 WORKDIR /insight
