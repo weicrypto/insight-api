@@ -283,7 +283,7 @@
   },
   {
     "poolName":"WEI.TOP",
-    "url":"http://dash.btc.top/", // todo update the address
+    "url":"http://dash.btc.top/",
     "searchStrings":[
       "/WEI.TOP/"
     ]
@@ -311,7 +311,7 @@
   },
   {
     "poolName":"Stratum Pool",
-    "url":"https://github.com/dashpay/dash-stratum", //todo update the address
+    "url":"https://github.com/dashpay/dash-stratum",
     "searchStrings":[
       "/stratum/"
     ]
